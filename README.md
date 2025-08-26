@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Volotive
-- 👀 I’m interested in coding bots and all sorts
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @Volotive (chris)
+- 👀 I’m interested in coding whatever
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing so far
 - 📫 How to reach me (idk)
 
